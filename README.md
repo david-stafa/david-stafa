@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello world! 👋
+
+- Nice to meet you, fellow coder! I'm David, a passionate web developer 🧑🏻‍💻.
+
+- 🔭 I’m currently working on a jewelry showroom using Next.js.
 
 <!--
 **david-stafa/david-stafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
