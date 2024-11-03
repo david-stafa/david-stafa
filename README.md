@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-- Nice to meet you, fellow coder! I'm David, a passionate web developer 🧑🏻‍💻.
+- Nice to meet you, fellow coder! I'm David, passionate web developer 🧑🏻‍💻.
 
 - 🔭 I’m currently working on a jewelry showroom using Next.js.
 
